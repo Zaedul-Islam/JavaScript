@@ -75,5 +75,5 @@ const flattenedUniqueData = data.reduce((accumulator, currentObject) => {
 }, []);
 
 /**
- * flattenedData: ["blue", "green", "black", "orange", "red"]
+ * flattenedUniqueData: ["blue", "green", "black", "orange", "red"]
  */
